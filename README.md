@@ -1,11 +1,11 @@
-hy how  are you 
+Hy how  are you 
 my name is tanzila 
 i am student of bs cs
-i am try my best for pratice
-allah help me 
-how are you
-i am fine 
-i  introduce my self
-my name is tanzila rafique
-my friend name is quart ul ain
+i am try my best for git hub pratice
+git hub is a version control system
+git hub create our project history 
+we can make branches in git hub
+in git hub first i can make my repository which name is myproject
+second i create branch which name is future 1
+
 
